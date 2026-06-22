@@ -2,7 +2,7 @@
 
 I'm [**Bhushan**](bhushan.com), a [**IIT-JEE**](https://jeemain.nta.nic.in/) aspirant based in India.
 
-I code and build whatever I can imagine in [**Python**](https://www.python.org/).
+I have code more 45+ 2D Games in [**Python**](https://www.python.org/).
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
