@@ -1,6 +1,6 @@
 ### Hi there! **✨**
 
-I'm [Bhushan](bhushan.com), a [IIT-JEE](https://jeemain.nta.nic.in/) aspirant based in India.
+I'm [**Bhushan**](bhushan.com), a [**IIT-JEE**](https://jeemain.nta.nic.in/) aspirant based in India.
 
 I code and build whatever I can imagine in [**Python**](https://www.python.org/).
 
