@@ -12,7 +12,7 @@ I've built over 100 public repositories, but privately... it's probably more tha
 
 ### Fun Facts
 
-*   I have 2 cats
-*   I don't like coffee
-*   Demon Slayer is my favorite anime
+*   I have 2 Cats
+*   I don't like Coffee
+*   Demon Slayer is my favorite Anime
 *   Hobbies: Calisthenics, Coding, and Studying
