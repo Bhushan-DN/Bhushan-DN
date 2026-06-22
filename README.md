@@ -2,7 +2,7 @@
 
 I'm [**Bhushan**](bhushan.com), a [**IIT-JEE**](https://jeemain.nta.nic.in/) aspirant based in India.
 
-Coded 45+ [**Python**](https://www.python.org/) games. Now leveling up to 3D.
+Coded 45+ 2D [**Python**](https://www.python.org/) games. Now leveling up to 3D.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
